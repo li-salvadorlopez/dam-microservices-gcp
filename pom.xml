@@ -19,6 +19,7 @@
         <module>transfers-service</module>
         <module>assets-module</module>
         <module>metadata-service</module>
+        <module>titles-service</module>
     </modules>
 
 </project>
