@@ -17,6 +17,7 @@
 
     <modules>
         <module>transfers-service</module>
+        <module>assets-module</module>
     </modules>
 
 </project>
