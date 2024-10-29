@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>in.juulk</groupId>
-    <artifactId>assets-module</artifactId>
+    <artifactId>assets-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>assets-module</name>
     <description>assets-module</description>
